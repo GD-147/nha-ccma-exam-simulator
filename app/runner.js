@@ -161,43 +161,44 @@ function answerDraftKey(examId, sectionId, qid) {
   return `constructedDraft_${examId}_${sectionId}_${qid}`;
 }
 function normalizeDomain(value) {
-  const raw = String(value || "")
-    .trim()
-    .toUpperCase()
-    .replace(/\s+/g, " ");
-
+  const raw = String(value || "").trim().toUpperCase().replace(/\s+/g, " ");
   const aliases = {
     "1": "I",
     "I": "I",
     "DOMAIN 1": "I",
     "DOMAIN I": "I",
-    "PATIENT/CARE MANAGEMENT": "I",
-
+    "FOUNDATIONAL KNOWLEDGE AND BASIC SCIENCE": "I",
     "2": "II",
     "II": "II",
     "DOMAIN 2": "II",
     "DOMAIN II": "II",
-    "NURSING TEAMWORK AND COLLABORATION": "II",
-
+    "ANATOMY AND PHYSIOLOGY": "II",
     "3": "III",
     "III": "III",
     "DOMAIN 3": "III",
     "DOMAIN III": "III",
-    "ELEMENTS OF INTERPROFESSIONAL CARE": "III",
-
+    "CLINICAL PATIENT CARE": "III",
     "4": "IV",
     "IV": "IV",
     "DOMAIN 4": "IV",
     "DOMAIN IV": "IV",
-    "HOLISTIC PATIENT CARE": "IV",
-
+    "PATIENT CARE COORDINATION AND EDUCATION": "IV",
     "5": "V",
     "V": "V",
     "DOMAIN 5": "V",
     "DOMAIN V": "V",
-    "PROFESSIONAL CONCEPTS": "V"
+    "ADMINISTRATIVE ASSISTING": "V",
+    "6": "VI",
+    "VI": "VI",
+    "DOMAIN 6": "VI",
+    "DOMAIN VI": "VI",
+    "COMMUNICATION AND CUSTOMER SERVICE": "VI",
+    "7": "VII",
+    "VII": "VII",
+    "DOMAIN 7": "VII",
+    "DOMAIN VII": "VII",
+    "MEDICAL LAW AND ETHICS": "VII",
   };
-
   return aliases[raw] || raw;
 }
 
@@ -246,7 +247,7 @@ async function loadQuestionsForSection(examId, section, cfg) {
   } else if (cfg.examFiles && cfg.examFiles.length) {
     files = cfg.examFiles;
   } else {
-    files = [`cmsrn_exam_01.json`];
+    files = [`nha-ccma_exam_01.json`];
   }
 
   return loadQuestionFiles(examId, files);

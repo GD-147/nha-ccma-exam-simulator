@@ -1,4 +1,4 @@
-name: Deploy CMSRN Exam Simulator to GitHub Pages
+name: Deploy NHA CCMA Exam Simulator to GitHub Pages
 
 on:
   push:

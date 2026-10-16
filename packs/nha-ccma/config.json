@@ -1,0 +1,83 @@
+{
+  "examId": "nha-ccma",
+  "brandName": "NHA CCMA Exam Simulator",
+  "accessPassword": "CCMAPREP",
+  "practiceChunkSize": 10,
+  "examFiles": [],
+  "sections": [
+    {
+      "id": "domain1",
+      "label": "Domain I — Foundational Knowledge and Basic Science",
+      "type": "mcq",
+      "domain": "Foundational Knowledge and Basic Science",
+      "questionCount": 15,
+      "timeMin": 18,
+      "examFiles": []
+    },
+    {
+      "id": "domain2",
+      "label": "Domain II — Anatomy and Physiology",
+      "type": "mcq",
+      "domain": "Anatomy and Physiology",
+      "questionCount": 8,
+      "timeMin": 10,
+      "examFiles": []
+    },
+    {
+      "id": "domain3",
+      "label": "Domain III — Clinical Patient Care",
+      "type": "mcq",
+      "domain": "Clinical Patient Care",
+      "questionCount": 84,
+      "timeMin": 101,
+      "examFiles": []
+    },
+    {
+      "id": "domain4",
+      "label": "Domain IV — Patient Care Coordination and Education",
+      "type": "mcq",
+      "domain": "Patient Care Coordination and Education",
+      "questionCount": 12,
+      "timeMin": 14,
+      "examFiles": []
+    },
+    {
+      "id": "domain5",
+      "label": "Domain V — Administrative Assisting",
+      "type": "mcq",
+      "domain": "Administrative Assisting",
+      "questionCount": 12,
+      "timeMin": 14,
+      "examFiles": []
+    },
+    {
+      "id": "domain6",
+      "label": "Domain VI — Communication and Customer Service",
+      "type": "mcq",
+      "domain": "Communication and Customer Service",
+      "questionCount": 12,
+      "timeMin": 14,
+      "examFiles": []
+    },
+    {
+      "id": "domain7",
+      "label": "Domain VII — Medical Law and Ethics",
+      "type": "mcq",
+      "domain": "Medical Law and Ethics",
+      "questionCount": 7,
+      "timeMin": 9,
+      "examFiles": []
+    },
+    {
+      "id": "full",
+      "label": "Full-Length Practice Test",
+      "type": "mcq",
+      "questionCount": 180,
+      "timeMin": 180,
+      "examFiles": []
+    }
+  ],
+  "printables": [],
+  "theme": "dark",
+  "logoPath": "../packs/nha-ccma/assets/logo.png?v=1"
+}

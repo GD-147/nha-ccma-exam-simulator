@@ -2,7 +2,7 @@
 
 function getExamFromUrl() {
   const params = new URLSearchParams(window.location.search);
-  return (params.get("exam") || "cmsrn").toLowerCase();
+  return (params.get("exam") || "nha-ccma").toLowerCase();
 }
 
 function getConfigPath(examId) {
