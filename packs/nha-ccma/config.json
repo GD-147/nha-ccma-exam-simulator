@@ -3,7 +3,13 @@
   "brandName": "NHA CCMA Exam Simulator",
   "accessPassword": "CCMAPREP",
   "practiceChunkSize": 10,
-  "examFiles": [],
+  "examFiles": [
+    "nha-ccma_exam_01.json",
+    "nha-ccma_exam_02.json",
+    "nha-ccma_exam_03.json",
+    "nha-ccma_exam_04.json",
+    "nha-ccma_exam_05.json"
+  ],
   "sections": [
     {
       "id": "domain1",
