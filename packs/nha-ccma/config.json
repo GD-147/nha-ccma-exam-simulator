@@ -83,7 +83,148 @@
       "examFiles": []
     }
   ],
-  "printables": [],
+  "printables": [
+    {
+      "label": "Practice Exam 01 — Foundational Knowledge and Basic Science (Set 01)",
+      "file": "ccma_practice_exam_01.pdf"
+    },
+    {
+      "label": "Practice Exam 02 — Anatomy and Physiology (Set 01)",
+      "file": "ccma_practice_exam_02.pdf"
+    },
+    {
+      "label": "Practice Exam 03 — Clinical Patient Care (Set 01)",
+      "file": "ccma_practice_exam_03.pdf"
+    },
+    {
+      "label": "Practice Exam 04 — Patient Care Coordination and Education (Set 01)",
+      "file": "ccma_practice_exam_04.pdf"
+    },
+    {
+      "label": "Practice Exam 05 — Administrative Assisting (Set 01)",
+      "file": "ccma_practice_exam_05.pdf"
+    },
+    {
+      "label": "Practice Exam 06 — Communication and Customer Service (Set 01)",
+      "file": "ccma_practice_exam_06.pdf"
+    },
+    {
+      "label": "Practice Exam 07 — Medical Law and Ethics (Set 01)",
+      "file": "ccma_practice_exam_07.pdf"
+    },
+    {
+      "label": "Practice Exam 08 — Foundational Knowledge and Basic Science (Set 02)",
+      "file": "ccma_practice_exam_08.pdf"
+    },
+    {
+      "label": "Practice Exam 09 — Anatomy and Physiology (Set 02)",
+      "file": "ccma_practice_exam_09.pdf"
+    },
+    {
+      "label": "Practice Exam 10 — Clinical Patient Care (Set 02)",
+      "file": "ccma_practice_exam_10.pdf"
+    },
+    {
+      "label": "Practice Exam 11 — Patient Care Coordination and Education (Set 02)",
+      "file": "ccma_practice_exam_11.pdf"
+    },
+    {
+      "label": "Practice Exam 12 — Administrative Assisting (Set 02)",
+      "file": "ccma_practice_exam_12.pdf"
+    },
+    {
+      "label": "Practice Exam 13 — Communication and Customer Service (Set 02)",
+      "file": "ccma_practice_exam_13.pdf"
+    },
+    {
+      "label": "Practice Exam 14 — Medical Law and Ethics (Set 02)",
+      "file": "ccma_practice_exam_14.pdf"
+    },
+    {
+      "label": "Practice Exam 15 — Foundational Knowledge and Basic Science (Set 03)",
+      "file": "ccma_practice_exam_15.pdf"
+    },
+    {
+      "label": "Practice Exam 16 — Anatomy and Physiology (Set 03)",
+      "file": "ccma_practice_exam_16.pdf"
+    },
+    {
+      "label": "Practice Exam 17 — Clinical Patient Care (Set 03)",
+      "file": "ccma_practice_exam_17.pdf"
+    },
+    {
+      "label": "Practice Exam 18 — Patient Care Coordination and Education (Set 03)",
+      "file": "ccma_practice_exam_18.pdf"
+    },
+    {
+      "label": "Practice Exam 19 — Administrative Assisting (Set 03)",
+      "file": "ccma_practice_exam_19.pdf"
+    },
+    {
+      "label": "Practice Exam 20 — Communication and Customer Service (Set 03)",
+      "file": "ccma_practice_exam_20.pdf"
+    },
+    {
+      "label": "Practice Exam 21 — Medical Law and Ethics (Set 03)",
+      "file": "ccma_practice_exam_21.pdf"
+    },
+    {
+      "label": "Practice Exam 22 — Foundational Knowledge and Basic Science (Set 04)",
+      "file": "ccma_practice_exam_22.pdf"
+    },
+    {
+      "label": "Practice Exam 23 — Anatomy and Physiology (Set 04)",
+      "file": "ccma_practice_exam_23.pdf"
+    },
+    {
+      "label": "Practice Exam 24 — Clinical Patient Care (Set 04)",
+      "file": "ccma_practice_exam_24.pdf"
+    },
+    {
+      "label": "Practice Exam 25 — Patient Care Coordination and Education (Set 04)",
+      "file": "ccma_practice_exam_25.pdf"
+    },
+    {
+      "label": "Practice Exam 26 — Administrative Assisting (Set 04)",
+      "file": "ccma_practice_exam_26.pdf"
+    },
+    {
+      "label": "Practice Exam 27 — Communication and Customer Service (Set 04)",
+      "file": "ccma_practice_exam_27.pdf"
+    },
+    {
+      "label": "Practice Exam 28 — Medical Law and Ethics (Set 04)",
+      "file": "ccma_practice_exam_28.pdf"
+    },
+    {
+      "label": "Practice Exam 29 — Foundational Knowledge and Basic Science (Set 05)",
+      "file": "ccma_practice_exam_29.pdf"
+    },
+    {
+      "label": "Practice Exam 30 — Anatomy and Physiology (Set 05)",
+      "file": "ccma_practice_exam_30.pdf"
+    },
+    {
+      "label": "Practice Exam 31 — Clinical Patient Care (Set 05)",
+      "file": "ccma_practice_exam_31.pdf"
+    },
+    {
+      "label": "Practice Exam 32 — Patient Care Coordination and Education (Set 05)",
+      "file": "ccma_practice_exam_32.pdf"
+    },
+    {
+      "label": "Practice Exam 33 — Administrative Assisting (Set 05)",
+      "file": "ccma_practice_exam_33.pdf"
+    },
+    {
+      "label": "Practice Exam 34 — Communication and Customer Service (Set 05)",
+      "file": "ccma_practice_exam_34.pdf"
+    },
+    {
+      "label": "Practice Exam 35 — Medical Law and Ethics (Set 05)",
+      "file": "ccma_practice_exam_35.pdf"
+    }
+  ],
   "theme": "dark",
-  "logoPath": "../packs/nha-ccma/assets/logo.png?v=1"
+  "logoPath": "../packs/nha-ccma/assets/logo.png?v=lena-whitmore-20261016"
 }
